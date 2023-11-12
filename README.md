@@ -1,21 +1,10 @@
 # Containerize Flask and Vue.js wab app
 
-## Prerequisites?
-### Backend
-
-- Python 3.9+
-- Flask
-
-### Frontend
-
-- Node.js 14+
-- npm or yarn
-
 ## Setup & Installation
 
 ### 1. Clone the Repository
 
-Clone the repository from [https://github.com/hostspaceng/community-challenge](https://https://github.com/paularinzee/Containerize-Flask-and-Vue.js-web-Microservice).
+Clone the repository from [https://https://github.com/paularinzee/Containerize-Flask-and-Vue.js-web-Microservice](https://https://github.com/paularinzee/Containerize-Flask-and-Vue.js-web-Microservice).
 
 ### build the image and run the container in detached mode
     ```sh 
